@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+li {
+
+}
+
 body {
     font-family: 'Orbitron', sans-serif;
     background-color: #000000;
@@ -161,4 +165,9 @@ footer {
 
 h2{
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
